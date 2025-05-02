@@ -9,7 +9,7 @@ This Streamlit dashboard allows users to upload historical cryptocurrency price 
 
 ## 🚀 Features
 
-- 📤 Upload your own CSV file with historical crypto prices
+- 📤 Upload your own CSV file with historical crypto prices (sample is provided in the repo)
 - ⚖️ Set custom portfolio weights
 - 📅 Select a date range for analysis
 - 🏦 Adjust the risk-free rate for more realistic Sharpe/Sortino ratios
